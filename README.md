@@ -7,5 +7,5 @@
 Copy `starchip.toml` to `~/.config/starship.toml`
 
 ```bash
-wget -O ~/.config/starship.toml https://raw.githubusercontent.com/joshuai96/starship-powerline-nord/main/starship.toml
+iwr https://raw.githubusercontent.com/cndctr/starship-powerline-nord/refs/heads/main/starship.toml -OutFile ~/.config/starship.toml
 ```
