@@ -27,6 +27,7 @@ $nim\
 $rust\
 $scala\
 [](fg:nord3)
+$character\
 """
 
 scan_timeout = 50
